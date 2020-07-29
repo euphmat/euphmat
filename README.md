@@ -8,4 +8,6 @@ There is a lot of hilarious source code scattered around here that doesn't amoun
 - 🤔 I want to help the cat.
 - 💬 If you have a problem, don't ask.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=euphmat)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=euphmat&show_icons=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphmat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
