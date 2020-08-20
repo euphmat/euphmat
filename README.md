@@ -8,9 +8,18 @@ There is a lot of hilarious source code scattered around here that doesn't amoun
 - 🤔 I want to help the cat.
 - 💬 If you have a problem, don't ask.
 
+## Qiita Work
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/euphtam/posts.svg)](http://qiita.com/euphtam) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/euphtam/contributions.svg)](http://qiita.com/euphtam) [![My Qiita followers](https://qiita-badge.apiapi.app/s/euphtam/followers.svg)](http://qiita.com/euphtam)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=euphmat&show_icons=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euphmat&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euphmat&layout=compact&theme=buefy" />
 </a>
+
+
+
+
+
