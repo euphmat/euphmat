@@ -1,7 +1,3 @@
-### Hi there 👋
-
-😎
-
 ### Qiita Work
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/euphtam/posts.svg)](http://qiita.com/euphtam) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/euphtam/contributions.svg)](http://qiita.com/euphtam) [![My Qiita followers](https://qiita-badge.apiapi.app/s/euphtam/followers.svg)](http://qiita.com/euphtam)
